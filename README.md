@@ -13,11 +13,8 @@
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=elliot40404&hide_title=true&hide_border=true&langs_count=5)
+<!-- [![Avishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elliot40404)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -51,10 +48,7 @@
 <br />
 
 ---
+## :zap GITHUB STATS
+![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot40404&show_icons=true&theme=radical)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elliot40404&show_icons=true&hide_border=true" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot40404)](https://github.com/anuraghazra/github-readme-stats)
