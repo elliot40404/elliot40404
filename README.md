@@ -48,7 +48,11 @@
 <br />
 
 ---
-:zap GITHUB STATS
+:zap: GITHUB STATS
 ![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot40404&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot40404)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
