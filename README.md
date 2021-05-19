@@ -50,7 +50,7 @@
 ---
 ## :zap: GITHUB STATS
 
-![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot40404&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot40404)](https://avishek.co.in)
+![Elliot's GitHub stats](https://gitstat.vercel.app/api?username=elliot40404&show_icons=true&theme=radical) [![Top Langs](https://gitstat.vercel.app/api/top-langs/?username=elliot40404)](https://avishek.co.in)
 
 <!--START_SECTION:activity-->
 
