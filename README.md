@@ -13,7 +13,7 @@
 
 📊 **This week I spent my time on**
 
-<!-- [![Avishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elliot40404)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Avishek's wakatime stats](https://gitstat.vercel.app/api/wakatime?username=elliot40404)](https://github.com/elliot40404)
 
 
 ### Connect with me:
