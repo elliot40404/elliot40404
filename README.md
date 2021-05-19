@@ -12,8 +12,9 @@
 
 
 📊 **This week I spent my time on**
-
-[![Avishek's wakatime stats](https://gitstat.vercel.app/api/wakatime?username=elliot40404)](https://github.com/elliot40404)
+<br>
+<img src="https://github.com/elliot40404/elliot40404/blob/master/images/stat.svg" alt="WAKATIME STATS"/>
+<!-- [![Avishek's wakatime stats](https://gitstat.vercel.app/api/wakatime?username=elliot40404)](https://github.com/elliot40404) -->
 
 
 ### Connect with me:
