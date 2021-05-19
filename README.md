@@ -5,10 +5,10 @@
 ## I'm a Full Stack developer / Linux enthusiast!!
 
 - 🔭 I just launched my first portfolio: [avishek.co.in](https://avishek.co.in)!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to get a CEH.
 - 🥅 2021 Goals: Create a meaningful startup
-- ⚡ Fun fact: I love that syntactic sugar
+- ⚡ Fun fact: I love that syntactic sugar.
 
 
 📊 **This week I spent my time on**
@@ -50,9 +50,7 @@
 ---
 ## :zap: GITHUB STATS
 
-![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot40404&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot40404)](https://github.com/anuraghazra/github-readme-stats)
+![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot40404&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot40404)](https://avishek.co.in)
 
 <!--START_SECTION:activity-->
 
