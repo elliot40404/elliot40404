@@ -1,6 +1,6 @@
-### Hi there, Avishek - aka [elliot404](https://avishek.co.in) 👋
+### Avishek here, - aka [elliot40404](https://avishek.co.in) 👋
 
-[![Website](https://img.shields.io/website?label=avishek.co.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://avishek.co.in)
+[![Website](https://img.shields.io/website?label=avishek.co.in&style=for-the-badge&url=https%3A%2F%2Favishek.co.in)](https://avishek.co.in)
 
 ## I'm a Full Stack developer / Linux enthusiast!!
 
