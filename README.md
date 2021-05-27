@@ -5,6 +5,7 @@
 ## I'm a Full Stack developer / Linux enthusiast!!
 
 - 🔭 I just launched my first portfolio: [avishek.co.in](https://avishek.co.in)!
+- 🔭 I am currently working on my portfolio site.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to get a CEH.
 - 🥅 2021 Goals: Create a meaningful startup
