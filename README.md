@@ -1,10 +1,11 @@
+<!-- ### Avishek here, - aka [elliot40404](https://avishek.co.in) 👋 -->
 ### Avishek here, - aka [elliot40404](https://avishek.co.in) 👋
 
-[![Website](https://img.shields.io/website?label=avishek.co.in&style=for-the-badge&url=https%3A%2F%2Favishek.co.in)](https://avishek.co.in)
+<!-- [![Website](https://img.shields.io/website?label=avishek.co.in&style=for-the-badge&url=https%3A%2F%2Favishek.co.in)](https://avishek.co.in) -->
 
 ## I'm a Full Stack developer / Linux enthusiast!!
 
-- 🔭 I just launched my first portfolio: [avishek.co.in](https://avishek.co.in)!
+<!-- - 🔭 I just launched my first portfolio: [avishek.co.in](https://avishek.co.in)! -->
 - 🔭 I am currently working on my portfolio site.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to get a CEH.
