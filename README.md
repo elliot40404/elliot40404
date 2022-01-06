@@ -9,7 +9,7 @@
 - 🔭 I am currently working on my portfolio site.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to get a CEH.
-- 🥅 2021 Goals: Create a meaningful startup
+- 🥅 2022 Goals: Create a meaningful startup
 - ⚡ Fun fact: I love that syntactic sugar.
 
 
