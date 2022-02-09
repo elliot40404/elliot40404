@@ -6,10 +6,10 @@
 ## I'm a Full Stack developer / Linux enthusiast!!
 
 <!-- - 🔭 I just launched my first portfolio: [avishek.co.in](https://avishek.co.in)! -->
-- 🔭 I am currently working on my portfolio site.
+- 🔭 I am currently working on my startup.
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to get a CEH.
-- 🥅 2022 Goals: Create a meaningful startup
+- 👯 I’m looking to get a CCNA.
+- 🥅 2022 Goals: Take my startup to the next stage 
 - ⚡ Fun fact: I love that syntactic sugar.
 
 
