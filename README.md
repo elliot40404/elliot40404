@@ -6,12 +6,12 @@
 
 ## I'm a Full Stack developer / Linux enthusiast
 
-<!-- - 🔭 I just launched my first portfolio: [avishek.co.in](https://avishek.co.in)! -->
 - 🔭 I am currently working as a Backend Engineer
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on FOSS projects
 - 🥅 2024 Goals: Learn DevSecOps.
 - ⚡ Fun fact: I am an Electrical Engineer by degree.
+<!-- - ✨ Learn more about me @ [elliot40404.com](https://elliot40404.com)! -->
 
 <h3>Languages and Tools</h3>
 <p>
@@ -89,7 +89,7 @@
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/elliot40404" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/avishek404" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
