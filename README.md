@@ -85,7 +85,7 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C559%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C560%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -114,14 +114,15 @@ Sunday                   290 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     14 mins             ██████████████░░░░░░░░░░░   54.57 % 
+Go                       12 mins             ███████████░░░░░░░░░░░░░░   45.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/08/2024 18:38:27 UTC
+ Last Updated on 09/08/2024 18:37:50 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
