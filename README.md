@@ -114,14 +114,14 @@ Sunday                   292 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/11/2024 18:38:29 UTC
+ Last Updated on 07/11/2024 18:38:45 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
