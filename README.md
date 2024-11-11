@@ -85,6 +85,8 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C589%20hrs%2054%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -119,7 +121,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/11/2024 18:36:55 UTC
+ Last Updated on 11/11/2024 18:37:55 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
