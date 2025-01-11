@@ -6,11 +6,9 @@
 
 ## I'm a Full Stack developer / Linux enthusiast
 
-- 🔭 I am currently working as a Backend Engineer
+- 🔭 I am currently working as a Backend + DevSecOps Engineer
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on FOSS projects
-- 🥅 2024 Goals: Learn DevSecOps.
-- ⚡ Fun fact: I am an Electrical Engineer by degree.
 <!-- - ✨ Learn more about me @ [elliot40404.com](https://elliot40404.com)! -->
 
 <h3>Languages and Tools</h3>
