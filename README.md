@@ -9,6 +9,7 @@
 - 🔭 I am currently working as a Backend + DevSecOps Engineer
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on FOSS projects
+- ⚡ I use neovim BTW
 <!-- - ✨ Learn more about me @ [elliot40404.com](https://elliot40404.com)! -->
 
 <h3>Languages and Tools</h3>
