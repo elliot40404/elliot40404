@@ -120,4 +120,10 @@ Mac                      3 hrs 45 mins       █████░░░░░░�
 <p><a href="https://github.com/elliot40404" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/avishek404" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<h3>Support me on Ko-fi</h3>
+<p>
+  <a href="https://ko-fi.com/elliot40404" target="_blank">
+    <img alt="Kofi" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion-p-500.png" />
+  </a>
+</p>
 ------------
