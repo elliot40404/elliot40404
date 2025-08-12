@@ -2,15 +2,15 @@
 
 ### Avishek here, - aka [elliot40404](https://github.com/elliot40404) 👋
 
-<p>I'm a Fullstack Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Kolkata, India</b>.</p>
+<p>I'm a Backend Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Kolkata, India</b>.</p>
 
-## I'm a Full Stack developer / Linux enthusiast
+## I'm a Backend developer / Linux enthusiast
 
 - 🔭 I am currently working as a Backend + DevSecOps Engineer
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on FOSS projects
 - ⚡ I use neovim BTW
-<!-- - ✨ Learn more about me @ [elliot40404.com](https://elliot40404.com)! -->
+- ✨ Building [logtrail](logtrail.net)
 
 <h3>Languages and Tools</h3>
 <p>
