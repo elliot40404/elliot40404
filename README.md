@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on FOSS projects
 - ⚡ I use neovim BTW
-- ✨ Building [logtrail](logtrail.net)
+- ✨ Building [logtrail](https://logtrail.net)
 
 <h3>Languages and Tools</h3>
 <p>
