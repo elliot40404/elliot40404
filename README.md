@@ -97,19 +97,17 @@ Sunday                   389 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               36 mins             ████████████████░░░░░░░░░   62.93 % 
-Bash                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Git                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/05/2026 19:04:35 UTC
+ Last Updated on 05/05/2026 19:01:45 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
