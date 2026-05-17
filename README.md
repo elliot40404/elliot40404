@@ -68,50 +68,8 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C470%20hrs%2041%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-🌆 Daytime                687 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                780 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-🌙 Night                  1238 commits        ███████████░░░░░░░░░░░░░░   44.74 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Tuesday                  381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Wednesday                382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 419 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Friday                   390 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Sunday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Git                      2 mins              ███████████░░░░░░░░░░░░░░   43.68 % 
-oil                      1 min               ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-DiffviewFiles            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-
-🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/05/2026 18:49:07 UTC
+ Last Updated on 17/05/2026 18:49:18 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
