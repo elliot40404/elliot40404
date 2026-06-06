@@ -97,17 +97,17 @@ Sunday                   477 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-oil                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/06/2026 19:11:07 UTC
+ Last Updated on 06/06/2026 18:56:11 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
