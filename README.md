@@ -68,46 +68,8 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C481%20hrs%2054%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-🌆 Daytime                1987 commits        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌃 Evening                2884 commits        ██████████░░░░░░░░░░░░░░░   38.03 % 
-🌙 Night                  2642 commits        █████████░░░░░░░░░░░░░░░░   34.84 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Wednesday                1233 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Thursday                 1667 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Friday                   1274 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Saturday                 581 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Sunday                   477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 06/06/2026 18:56:11 UTC
+ Last Updated on 07/06/2026 18:57:10 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
