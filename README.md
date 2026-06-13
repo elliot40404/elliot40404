@@ -68,7 +68,7 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C481%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C482%20hrs%203%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -97,17 +97,18 @@ Sunday                   477 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               5 mins              ███████████████░░░░░░░░░░   59.85 % 
+Bash                     3 mins              ██████████░░░░░░░░░░░░░░░   40.15 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 19:17:19 UTC
+ Last Updated on 13/06/2026 18:58:15 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
