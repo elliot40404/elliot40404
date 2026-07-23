@@ -68,50 +68,8 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C484%20hrs%2048%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                96 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-🌆 Daytime                4131 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-🌃 Evening                6130 commits        ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌙 Night                  5025 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1901 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Tuesday                  2727 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Wednesday                2588 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Thursday                 3568 commits        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Friday                   2710 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Saturday                 1155 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Sunday                   733 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               22 mins             ███████████████░░░░░░░░░░   61.25 % 
-oil                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-env                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-
-🔥 Editors: 
-Neovim                   36 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/07/2026 19:56:09 UTC
+ Last Updated on 23/07/2026 19:58:06 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
