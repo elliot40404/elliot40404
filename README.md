@@ -68,8 +68,53 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C487%20hrs%2045%20mins-blue?style=flat)
 
- Last Updated on 24/07/2026 19:58:58 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                96 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+🌆 Daytime                4137 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+🌃 Evening                6138 commits        ██████████░░░░░░░░░░░░░░░   39.83 % 
+🌙 Night                  5038 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1901 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Tuesday                  2727 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Wednesday                2597 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 3579 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Friday                   2714 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Saturday                 1158 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Sunday                   733 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C++                      1 hr 55 mins        █████████████████████░░░░   84.71 % 
+oil                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+
+🔥 Editors: 
+VS Code                  1 hr 10 mins        █████████████░░░░░░░░░░░░   51.89 % 
+Neovim                   57 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
+Claude Code              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+
+💻 Operating System: 
+Mac                      2 hrs 1 min         ██████████████████████░░░   89.26 % 
+Windows                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+```
+
+
+ Last Updated on 25/07/2026 19:45:02 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
