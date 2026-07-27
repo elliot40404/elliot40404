@@ -68,7 +68,9 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C487%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C411%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -97,24 +99,47 @@ Sunday                   733 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 55 mins        █████████████████████░░░░   84.71 % 
-oil                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+C++                      2 hrs 39 mins       ██████████████████████░░░   88.18 % 
+oil                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████░░░░░░░░░░░░   51.89 % 
-Neovim                   57 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
-Claude Code              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+VS Code                  1 hr 52 mins        ████████████████░░░░░░░░░   62.03 % 
+Neovim                   1 hr                ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         ██████████████████████░░░   89.26 % 
-Windows                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Mac                      2 hrs 46 mins       ███████████████████████░░   91.69 % 
+Windows                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 46 mins (91.69%)
+
+✍️ 2,279 lines written by AI, 160 lines written by hand (93.44% AI-written)
+
+🔤 31,866,313 Input Tokens, 128,074 Output Tokens
+
+💵 $145.77 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 80 AI Prompts
+
+GPT                      2,001 lines         ██████████████████████░░░   86.14 % 
+Opus                     322 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.44% of written lines came from AI
+📚 Verbose Prompter — average 6,799 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 7.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:46:12 UTC
+ Last Updated on 27/07/2026 20:08:04 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
