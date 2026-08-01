@@ -68,7 +68,7 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2056%20mins-blue?style=flat)
 
@@ -99,27 +99,27 @@ Sunday                   733 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      45 mins             ██████████████░░░░░░░░░░░   57.33 % 
-TypeScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-oil                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+C++                      45 mins             ███████████████░░░░░░░░░░   58.93 % 
+TypeScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+oil                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████░░░░░░░░░░░░   51.99 % 
-Neovim                   38 mins             ████████████░░░░░░░░░░░░░   48.01 % 
+VS Code                  41 mins             █████████████░░░░░░░░░░░░   53.43 % 
+Neovim                   36 mins             ████████████░░░░░░░░░░░░░   46.57 % 
 
 💻 Operating System: 
-Mac                      46 mins             ██████████████░░░░░░░░░░░   57.53 % 
-Windows                  34 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
+Mac                      46 mins             ███████████████░░░░░░░░░░   59.13 % 
+Windows                  31 mins             ██████████░░░░░░░░░░░░░░░   40.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (57.53%)
+⏱ AI Coding Time: 46 mins (59.13%)
 
-✍️ 0 lines written by AI, 183 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 75 lines written by hand (0.0% AI-written)
 
 🔤 9,942,156 Input Tokens, 26,603 Output Tokens
 
@@ -137,7 +137,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/07/2026 20:06:14 UTC
+ Last Updated on 01/08/2026 19:45:03 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
