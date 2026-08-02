@@ -99,27 +99,27 @@ Sunday                   733 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      45 mins             ███████████████░░░░░░░░░░   58.93 % 
-TypeScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-oil                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+C++                      45 mins             ███████████████░░░░░░░░░░   58.42 % 
+TypeScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+oil                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████░░░░░░░░░░░░   53.43 % 
-Neovim                   36 mins             ████████████░░░░░░░░░░░░░   46.57 % 
+VS Code                  41 mins             █████████████░░░░░░░░░░░░   52.97 % 
+Neovim                   36 mins             ████████████░░░░░░░░░░░░░   47.03 % 
 
 💻 Operating System: 
-Mac                      46 mins             ███████████████░░░░░░░░░░   59.13 % 
-Windows                  31 mins             ██████████░░░░░░░░░░░░░░░   40.87 % 
+Mac                      46 mins             ███████████████░░░░░░░░░░   58.62 % 
+Windows                  32 mins             ██████████░░░░░░░░░░░░░░░   41.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (59.13%)
+⏱ AI Coding Time: 46 mins (58.62%)
 
-✍️ 0 lines written by AI, 75 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 110 lines written by hand (0.0% AI-written)
 
 🔤 9,942,156 Input Tokens, 26,603 Output Tokens
 
@@ -137,7 +137,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/08/2026 19:45:03 UTC
+ Last Updated on 02/08/2026 19:45:34 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
