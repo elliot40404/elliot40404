@@ -68,7 +68,7 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2056%20mins-blue?style=flat)
 
@@ -99,27 +99,45 @@ Sunday                   766 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 mins             ██████████░░░░░░░░░░░░░░░   40.11 % 
-Markdown                 12 mins             █████████░░░░░░░░░░░░░░░░   34.31 % 
-Git                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-oil                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+TOML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+CSV                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+oil                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 
 🔥 Editors: 
-Neovim                   36 mins             █████████████████████████   100.00 % 
+Neovim                   33 mins             ████████████████████░░░░░   78.36 % 
+Codex CLI                9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████░░░░░░░░   67.83 % 
+Mac                      13 mins             ████████░░░░░░░░░░░░░░░░░   32.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (21.64%)
+
+✍️ 60 lines written by AI, 323 lines written by hand (15.67% AI-written)
+
+🔤 1,219,111 Input Tokens, 13,882 Output Tokens
+
+💵 $6.51 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      60 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 15.67% of written lines came from AI
+📚 Verbose Prompter — average 1,502 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 85.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 20:11:09 UTC
+ Last Updated on 05/08/2026 20:07:25 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
