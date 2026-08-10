@@ -99,17 +99,17 @@ Sunday                   912 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 mins              ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-CSV                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Bash                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-env                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-oil                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+CSV                      6 mins              █████████░░░░░░░░░░░░░░░░   35.70 % 
+Bash                     6 mins              ████████░░░░░░░░░░░░░░░░░   32.42 % 
+env                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+oil                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Neovim                   30 mins             █████████████████████████   100.00 % 
+Neovim                   18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +119,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/08/2026 19:13:57 UTC
+ Last Updated on 10/08/2026 19:33:52 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
