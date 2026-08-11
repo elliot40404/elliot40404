@@ -75,21 +75,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-🌆 Daytime                3977 commits        ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-🌃 Evening                5368 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌙 Night                  4900 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌞 Morning                86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+🌆 Daytime                2676 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+🌃 Evening                3629 commits        █████████░░░░░░░░░░░░░░░░   36.91 % 
+🌙 Night                  3441 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1871 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Tuesday                  2416 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Wednesday                2418 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 3150 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Friday                   2453 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 1117 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Sunday                   912 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Monday                   1345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Tuesday                  1640 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                1587 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 2088 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   1655 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Saturday                 819 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sunday                   698 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 
 
@@ -99,11 +99,11 @@ Sunday                   912 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSV                      6 mins              █████████░░░░░░░░░░░░░░░░   35.70 % 
-Bash                     6 mins              ████████░░░░░░░░░░░░░░░░░   32.42 % 
-env                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-oil                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+CSV                      6 mins              █████████░░░░░░░░░░░░░░░░   37.02 % 
+Bash                     6 mins              ████████░░░░░░░░░░░░░░░░░   33.61 % 
+env                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+oil                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
 Neovim                   18 mins             █████████████████████████   100.00 % 
@@ -119,7 +119,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/08/2026 19:33:52 UTC
+ Last Updated on 11/08/2026 19:37:16 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
