@@ -76,17 +76,17 @@
 
 ```text
 🌞 Morning                86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-🌆 Daytime                2676 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌃 Evening                3629 commits        █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌙 Night                  3441 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌆 Daytime                2676 commits        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+🌃 Evening                3631 commits        █████████░░░░░░░░░░░░░░░░   36.92 % 
+🌙 Night                  3443 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  1640 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Wednesday                1587 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 2088 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Monday                   1345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Tuesday                  1640 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                1591 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Thursday                 2088 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
 Friday                   1655 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Saturday                 819 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Sunday                   698 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
@@ -99,17 +99,16 @@ Sunday                   698 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSV                      6 mins              █████████░░░░░░░░░░░░░░░░   37.02 % 
-Bash                     6 mins              ████████░░░░░░░░░░░░░░░░░   33.61 % 
-env                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-oil                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Bash                     6 mins              ██████████████░░░░░░░░░░░   55.56 % 
+env                      4 mins              █████████░░░░░░░░░░░░░░░░   37.44 % 
+oil                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Neovim                   18 mins             █████████████████████████   100.00 % 
+Neovim                   10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +118,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/08/2026 19:37:16 UTC
+ Last Updated on 12/08/2026 19:37:24 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
