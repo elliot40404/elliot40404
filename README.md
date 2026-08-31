@@ -72,66 +72,8 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2013%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-🌆 Daytime                4132 commits        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-🌃 Evening                5129 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
-🌙 Night                  5198 commits        █████████░░░░░░░░░░░░░░░░   35.73 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1955 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Tuesday                  2395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Wednesday                2466 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Thursday                 3128 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Friday                   2395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Saturday                 1205 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Sunday                   1005 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    17 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Codex CLI                17 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 122,473 Input Tokens, 9,248 Output Tokens
-
-💵 $4.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 58 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
-
- Last Updated on 30/08/2026 21:22:10 UTC
+ Last Updated on 31/08/2026 23:01:50 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
