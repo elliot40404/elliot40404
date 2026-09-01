@@ -72,8 +72,66 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2013%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 31/08/2026 23:01:50 UTC
+```text
+🌞 Morning                90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+🌆 Daytime                4185 commits        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌃 Evening                5134 commits        █████████░░░░░░░░░░░░░░░░   35.02 % 
+🌙 Night                  5251 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1983 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Tuesday                  2453 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                2469 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Thursday                 3133 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Friday                   2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Saturday                 1212 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Sunday                   1010 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    19 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Codex CLI                19 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      19 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 130,206 Input Tokens, 9,743 Output Tokens
+
+💵 $0.77 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 9 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 59 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 01/09/2026 21:17:18 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
