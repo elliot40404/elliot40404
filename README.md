@@ -68,9 +68,9 @@
 ## :zap: GITHUB STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -99,23 +99,43 @@ Sunday                   944 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    37 mins             ████████████████████░░░░░   79.85 % 
+Go                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              45 mins             ████████████████████████░   97.30 % 
+Neovim                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 47 mins (100.0%)
+
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 160,324 Input Tokens, 62,088 Output Tokens
+
+💵 $6.47 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 19 AI Prompts
+
+Opus                     2 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 515 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 21:49:39 UTC
+ Last Updated on 26/09/2026 21:26:02 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
