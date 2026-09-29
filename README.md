@@ -72,70 +72,8 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-🌆 Daytime                4341 commits        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-🌃 Evening                5225 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌙 Night                  5471 commits        █████████░░░░░░░░░░░░░░░░   36.17 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Tuesday                  2581 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Wednesday                2539 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Thursday                 3234 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Saturday                 1244 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Sunday                   1031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    37 mins             ████████████████████░░░░░   79.85 % 
-Go                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-
-🔥 Editors: 
-Claude Code              45 mins             ████████████████████████░   97.30 % 
-Neovim                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-
-💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 47 mins (100.0%)
-
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 160,324 Input Tokens, 62,088 Output Tokens
-
-💵 $6.47 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 19 AI Prompts
-
-Opus                     2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 28/09/2026 23:30:54 UTC
+ Last Updated on 29/09/2026 22:33:50 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
