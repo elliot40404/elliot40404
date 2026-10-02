@@ -99,43 +99,23 @@ Sunday                   1205 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    37 mins             ████████████████████░░░░░   79.85 % 
-Go                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              45 mins             ████████████████████████░   97.30 % 
-Neovim                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (100.0%)
-
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 160,324 Input Tokens, 62,088 Output Tokens
-
-💵 $3.48 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 19 AI Prompts
-
-Opus                     2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/10/2026 22:55:11 UTC
+ Last Updated on 02/10/2026 22:30:40 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
